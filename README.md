@@ -63,44 +63,64 @@ Với mức tỷ lệ nợ trung bình là 88.70%, ta thấy rằng phần lớn
 Mức thu nhập trung bình là $6,418, mức thu nhập trung bình không trả được nợ là $5,592.
 
 **1. Tỷ lệ vỡ nợ ảnh hưởng bởi độ tuổi**
+
 <img width="517" height="438" alt="image" src="https://github.com/user-attachments/assets/ba2595c3-8cb4-4b99-989c-30689d866248" />
+
 Chia nhóm tuổi thành 4 nhóm, ta thấy rằng nhóm dưới 30 tuổi là nhóm có tỷ lệ vỡ nợ cao nhất. Nhóm này gồm những người ở độ tuổi sinh viên, mới ra trường và đã đi làm nhưng chưa có thu nhập ổn định. Do đó mức thu nhập của nhóm này thấp, trong khi vẫn phải chi trả các khoản phải trả hàng tháng dẫn tới việc phải đi vay, và vay không trả được.
 Nhóm 30-50 tuổi chủ yếu gồm những người đã lập gia đình. Do đã có gia đình nên mức thu nhập của họ sẽ tăng lên -> giảm gánh nặng các khoản chi hàng tháng -> ít phải đi vay -> ít nợ.
 Ta thấy rằng tỷ lệ vỡ nợ tỷ lệ nghịch với độ tuổi, tuổi càng cao thì tỷ lệ vỡ nợ càng thấp.
 
 **2. Tỷ lệ vỡ nợ ảnh hưởng bởi thu nhập**
+
 <img width="517" height="450" alt="image" src="https://github.com/user-attachments/assets/89d04efc-1e06-463f-a66f-fb82f7deed2c" />
+
 Thu nhập là một trong những yếu tố quan trọng ảnh hưởng trực tiếp tới việc vay nợ. Nhóm có thu nhập thấp (thu nhập trung bình hàng tháng < $5000) vẫn phải chi trả những khoản chi hàng tháng, trong khi thu nhập không đáp ứng được, dẫn tới việc phải đi vay để chi tiêu. Tuy nhiên thu nhập < chi tiêu -> nợ càng cao càng không trả được -> tỷ lệ vỡ nợ cao. Nhóm có thu nhập trung bình (< $8000) có tỷ lệ vỡ nợ thấp hơn, và nhóm có thu nhập cao (> $8000) có tỷ lệ vỡ nợ thấp nhất. Do đó, tỷ lệ vỡ nợ tỷ lệ nghịch với thu nhập, thu nhập càng cao thì càng có khả năng chi trả và tích luỹ cao dẫn tới việc vỡ nợ thấp, ngược lại thu nhập thấp sẽ phải chịu áp lực tài chính và việc chi trả cho các khoản nợ sẽ rất khó khăn.
 
 **3. Tỷ lệ vỡ nợ ảnh hưởng bởi độ tuổi và thu nhập**
+
 <img width="525" height="225" alt="image" src="https://github.com/user-attachments/assets/eede48ab-4d0d-411f-ada1-013f47eff9cf" />
+
 Thông qua ma trận giữa nhóm tuổi và mức thu nhập trung bình hàng tháng, ta thấy nhóm những người dưới 30 tuổi với mức thu nhập thấp (< $5000) và thu nhập trung bình (< $8000) có tỷ lệ vỡ nợ cao nhất. Do đó cần đặc biệt lưu ý khi cho vay đối với nhóm này.
 
 **4. Tác động của số người phụ thuộc tới tỷ lệ vỡ nợ**
+
 <img width="542" height="492" alt="image" src="https://github.com/user-attachments/assets/652cc97f-f5c4-48a6-8970-b57e03cb6ae1" />
+
 Việc có người phụ thuộc cũng ảnh hưởng đến tỷ lệ vỡ nợ. Tỷ lệ này có xu hướng tăng khi có ít người phụ thuộc, đạt đỉnh là mức 6 người với tỷ lệ vỡ nợ lên tới 15.19%, tuy nhiên lại giảm dần sau đó, với tỷ lệ vỡ nợ là 0% khi có 9 người phụ thuộc. Có nhiều người phụ thuộc sẽ giúp giảm gánh nặng tài chính, đặc biệt là khi bố mẹ sẵn sàng chu cấp để hỗ trợ con cháu của họ. 
 Tỷ lệ vỡ nợ đối với nhóm có ít người phụ thuộc cao hơn, phần lớn là nhóm tuổi từ 30-50 và 50-70 tuổi. Việc có ít người phụ thuộc với nhóm tuổi này cho thấy rằng họ đang phải chịu trách nhiệm chính cho việc chi trả các khoản phải trả hàng tháng, và việc phải một mình nuôi "các miệng ăn" sẽ khiến cho chi tiêu cao, khiến việc trả nợ trở nên khó khăn.
 
 **5. Tỷ lệ vay nợ và tỷ lệ nợ**
+
 <img width="542" height="492" alt="image" src="https://github.com/user-attachments/assets/3686dc9b-d8b5-4cd8-8eae-d5893d322ec2" />
+
 Rủi ro vỡ nợ tăng lên khi tỷ lệ nợ tăng từ mức thấp lên mức cao, nhưng lại giảm bất ngờ ở nhóm tỷ lệ nợ rất cao. Việc này xảy ra một phần do tỷ lệ nợ của bộ dữ liệu được đặt ở mức cao nhất là 300%, ngoài ra cũng có thể do những người thuộc nhóm này có tài sản lớn hoặc vay nhiều nhưng vẫn kiểm soát được. Do đó, mối quan hệ giữa tỷ lệ vỡ nợ và tỷ lệ nợ là phi tuyến tính và cần phải theo dõi thêm nhóm Extreme.
 
 **6. Sự ảnh hưởng của tần suất thanh toán chậm tới tỷ lệ vỡ nợ**
+
 <img width="564" height="338" alt="image" src="https://github.com/user-attachments/assets/6f92588a-874a-4671-854a-70d1d760cfb4" />
+
 Tỷ lệ vỡ nợ tăng mạnh theo tần suất thanh toán chậm, đạt mức cao với nhóm 3-5 lần thanh toán chậm với 39.97%, và rất cao là 60.20% khi thanh toán chậm từ 5 lần trở lên. Chỉ với 1-2 lần thanh toán chậm mà tỷ lệ vỡ nợ tăng đáng kể rủi ro như vậy, do đó có thể thấy rằng yếu tố này ảnh hưởng rất lớn tới khả năng vỡ nợ, cần đặc biệt lưu ý đối với các trường hợp thanh toán chậm.
+
 <img width="686" height="248" alt="image" src="https://github.com/user-attachments/assets/c6173983-abb9-4129-ac75-d8507bbfcc0b" />
+
 Qua ma trận giữa tần suất trả chậm và các nhóm tuổi, ta thấy rằng rủi ro vỡ nợ tăng mạnh theo tần suất thanh toán chậm ở mọi nhóm tuổi, đặc biệt nhóm dưới 30 tuổi vẫn là nhóm có rủi ro vỡ nợ cao. Tuy nhiên rủi ro vỡ nợ đạt đỉnh điểm ở nhóm người trung niên, khi áp lực tài chính cao nhất, đặc biệt khi có sự thanh toán chậm trễ.
 
 **7. Mức độ nghiêm trọng của việc thanh toán chậm**
+
 <img width="568" height="336" alt="image" src="https://github.com/user-attachments/assets/b4e86ecc-5308-48a4-9583-a0e31d384757" />
+
 Tỷ lệ vỡ nợ tăng mạnh theo mức độ nghiêm trọng của việc thanh toán chậm, đặc biệt là nhóm thanh toán chậm từ 60 ngày. Đặc biệt đối với nhóm thanh toán chậm 90 ngày, đây là chỉ số rất quan trọng ảnh hưởng tới việc khách hàng không thanh toán nợ. Trên thực tế khi đã chậm trả từ 90 ngày, việc thúc giục khách hàng thanh toán nợ trở nên rất khó khăn. Do đó ta cần lưu ý ngay khi khách hàng có tình trạng chậm nợ từ 30-40 ngày để tránh tình trạng khách vỡ nợ không thanh toán được.
 
 **8. Tác động của tần suất và mức độ nghiệm trọng của việc thanh toán chậm**
+
 <img width="712" height="246" alt="image" src="https://github.com/user-attachments/assets/64402d5f-61ab-4f7e-beeb-744af56551bc" />
+
 Tỷ lệ vỡ nợ tăng lên đáng kể khi cả mức độ nghiêm trọng và tần suất thanh toán chậm đều tăng. Mức độ nghiêm trọng và tần suất chậm thanh toán làm tăng cường tác động của nhau đến rủi ro vỡ nợ. Ngay cả với cùng tần suất, mức độ nghiêm trọng cao hơn sẽ dẫn đến rủi ro vỡ nợ cao hơn và ngược lại, với cùng mức độ nghiệm trọng, tần suất cao hơn cũng dẫn đến rủi ro vỡ nợ cao hơn. Do đó ta thấy rằng tỷ lệ vỡ nợ phát sinh từ tác động tổng hợp của mức độ nghiêm trọng và tần suất chậm thanh toán, cả hai yếu tố này đều tác động lẫn nhau.
 
 **9. Phân nhóm khách hàng theo phân khúc rủi ro**
+
 <img width="1125" height="333" alt="image" src="https://github.com/user-attachments/assets/785e2a37-a051-4866-9ceb-e584b9be6c73" />
+
 Phân khúc rủi ro giúp phân nhóm khách hàng một cách hiệu quả dựa trên khả năng vỡ nợ của họ theo 5 tiêu chí: tuổi, thu nhập, tỷ lệ nợ, tần suất và mức độ nghiêm trọng của việc thanh toán chậm. 
 
 Ta chấm điểm cho từng tiêu chí với 30 điểm/tiêu chí, tổng 150 điểm và phân nhóm dựa theo tổng số điểm của từng khách hàng:
